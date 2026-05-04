@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+2026-05-01 08:00:01 INFO  Application started successfully
+2026-05-01 08:01:12 INFO  Database connection established
+2026-05-01 08:02:45 WARNING  Memory usage at 72%
+2026-05-01 08:03:10 INFO  User login successful: user_id=1042
+2026-05-01 08:04:33 ERROR  Failed to fetch data from payment API: timeout after 30s
+2026-05-01 08:04:34 ERROR  Retry attempt 1/3 failed for payment API
+2026-05-01 08:04:36 ERROR  Retry attempt 2/3 failed for payment API
+2026-05-01 08:04:39 ERROR  Retry attempt 3/3 failed for payment API
+2026-05-01 08:04:40 CRITICAL  Payment service completely unavailable
+2026-05-01 08:05:01 WARNING  Falling back to cached payment data
+2026-05-01 08:06:22 INFO  Cache hit for user_id=1042
+2026-05-01 08:07:15 ERROR  Null pointer exception in order_service.py line 142
+2026-05-01 08:07:16 ERROR  Order processing failed for order_id=9981
+2026-05-01 08:08:00 WARNING  CPU usage at 89%
+2026-05-01 08:09:11 ERROR  Database query timeout: query took 12000ms
+2026-05-01 08:09:12 INFO  Query retried successfully
+2026-05-01 08:10:45 CRITICAL  Out of memory — service crash imminent
+2026-05-01 08:10:46 CRITICAL  Service crashed — restarting
+2026-05-01 08:11:00 INFO  Service restarted successfully
+=======
+2026-05-01 08:00:01 INFO  Application started successfully
+2026-05-01 08:01:12 INFO  Database connection established
+2026-05-01 08:02:45 WARNING  Memory usage at 72%
+2026-05-01 08:03:10 INFO  User login successful: user_id=1042
+2026-05-01 08:04:33 ERROR  Failed to fetch data from payment API: timeout after 30s
+2026-05-01 08:04:34 ERROR  Retry attempt 1/3 failed for payment API
+2026-05-01 08:04:36 ERROR  Retry attempt 2/3 failed for payment API
+2026-05-01 08:04:39 ERROR  Retry attempt 3/3 failed for payment API
+2026-05-01 08:04:40 CRITICAL  Payment service completely unavailable
+2026-05-01 08:05:01 WARNING  Falling back to cached payment data
+2026-05-01 08:06:22 INFO  Cache hit for user_id=1042
+2026-05-01 08:07:15 ERROR  Null pointer exception in order_service.py line 142
+2026-05-01 08:07:16 ERROR  Order processing failed for order_id=9981
+2026-05-01 08:08:00 WARNING  CPU usage at 89%
+2026-05-01 08:09:11 ERROR  Database query timeout: query took 12000ms
+2026-05-01 08:09:12 INFO  Query retried successfully
+2026-05-01 08:10:45 CRITICAL  Out of memory — service crash imminent
+2026-05-01 08:10:46 CRITICAL  Service crashed — restarting
+2026-05-01 08:11:00 INFO  Service restarted successfully
+>>>>>>> 4daa93ba9c23cdf05a459ff49f0b8f64903e0f0e
+2026-05-01 08:12:30 WARNING  Disk usage at 91%

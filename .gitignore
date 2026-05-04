@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+# API keys and secrets
+config.py
+.env
+*.key
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Output files (optional to ignore)
+*.json
+=======
+# API keys and secrets
+config.py
+.env
+*.key
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Output files (optional to ignore)
+*.json
+>>>>>>> 4daa93ba9c23cdf05a459ff49f0b8f64903e0f0e
+*.html
