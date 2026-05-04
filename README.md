@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 LLM Log Analyzer
 
 > An AI-powered log analysis pipeline that automatically triages failures, classifies errors by severity, identifies root causes, and generates structured bug reports — powered by Google Gemini.
@@ -240,3 +241,7 @@ MIT License — free to use, modify, and distribute.
 ---
 
 *Built as a learning project exploring agentic AI workflows and LLM-powered infrastructure tooling.*
+=======
+# llm-log-analyzer
+AI-powered log analysis pipeline using Gemini to triage failures and generate bug reports
+>>>>>>> 63de621d0b213dcd7f81bcb2c177be8f4abf953a
